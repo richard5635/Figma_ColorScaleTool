@@ -1,0 +1,7 @@
+{
+  "name": "iA Speaker Color Tool",
+  "id": "946705197199220743",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
